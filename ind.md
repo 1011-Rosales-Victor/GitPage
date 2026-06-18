@@ -17,11 +17,11 @@ From the previous classes I have learned that the full-stack web dev process inc
 
 1. First, The developers need to plan out the website by deciding what content or features they need and where they will be put and how they will be used.
 2. Next, Coming up with the overall design of the web app including front and back end.
-3. Then, we set up the database to store our user data
+3. Then, we set up the database to store our user data.
 4. Developing on the back end of the web app to connect to our database.
 5. Developing the front end of the web app to connect to our back end and be user friendly to ensure a safe and clean user’s end process.
-6. Testing, we test our web app with example data and after successfully running all the tests, we deploy the application to the public
-7. Pray that everything works and nothing crashes
+6. Testing, we test our web app with example data and after successfully running all the tests, we deploy the application to the public.
+7. Pray that everything works and nothing crashes.
 
 
 ![GitHub logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
