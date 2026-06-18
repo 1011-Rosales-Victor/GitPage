@@ -26,4 +26,4 @@ From the previous classes I have learned that the full-stack web dev process inc
 
 ![GitHub logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
-Go to my second page: [About Jekyll](jekyll.html)
+Go to my second page: [About Jekyll](https://github.com/1011-Rosales-Victor/GitPage/blob/main/jekyll.md)
