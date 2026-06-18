@@ -1,6 +1,6 @@
 # About Jekyll
 
-GitHub Pages and Jekyll are helpful because they make it easier to build a website without setting up a separate web server. A user can create files, commit them to GitHub, and then publish those files online as webpages.
+GitHub Pages and Jekyll are helpful because they make it easier to build a website without setting up a separate web server. A user can create files, commit them to GitHub, and then publish those files online as webpages. Jekyll is also just a simpler tool used to make static webpages. It can take either Markdown or HTML pages and turn them into static webpages formatted however you like without having to go into the details with the code.
 
 ## More Terms
 
