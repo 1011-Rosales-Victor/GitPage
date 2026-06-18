@@ -1,17 +1,17 @@
-#Github Pages assignment
+# Github Pages assignment
 
 Welcome to my GitHub Pages website. This site explains content management systems, Jekyll, and the basic full-stack web development process. I will also write about some terms along with there definitions and include a link to my second webpage as well.
 
-#New Terms
+## New Terms
 
 | Term | Definition |
 |---|---|
-| CMS (Content Management System, | is a software used to create, manage, and publish digitial content. |
-| Jekyll, | is a static site generator that turns Markdown and HTML files into a website. |
-| Front Matter, | is information placed at the top of a file that tells Jekyll how to process the page. |
+| CMS (Content Management System, | A CMS is a software used to create, manage, and publish digitial content. |
+| Jekyll, | Jekyll is a static site generator that turns Markdown and HTML files into a website. |
+| Front Matter, | The information placed at the top of a file that tells Jekyll how to process the page. |
 | Webmaster, | A webmaster is a person responsible for maintaining one or many websites. |
 
-#Full-Stack Web Dev Process
+## Full-Stack Web Dev Process
 
 From the previous classes I have learned that the full-stack web dev process includes, planning, design, building, testing and publishing
 
