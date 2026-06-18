@@ -14,4 +14,4 @@ How would I add custom design or styling to a GitHub Pages website using CSS if 
 
 ![Jekyll logo](https://jekyllrb.com/img/logo-2x.png)
 
-Return to the homepage: [Home](ind.html)
+Return to the homepage: [Home](https://github.com/1011-Rosales-Victor/GitPage/blob/main/ind.md)
